@@ -1,0 +1,2 @@
+# ProjektSO
+Systemy operacyjne - projekt
