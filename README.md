@@ -1,2 +1,2 @@
 # ProjektSO
-Systemy operacyjne - projekt
+Systemy operacyjne - projekt. Współpraca procesów z użyciem C na Linuxie.
